@@ -165,4 +165,4 @@ DATA_PATHS = {
 - The script handles various edge cases like encoding issues, missing values, and format inconsistencies
 - Restaurant deduplication is performed to map equivalent restaurants between platforms
 - The final tables conform to the database schema shown in ER_Diagram.png 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ER Diagram")
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/Team-7-Grab-Tech-Bootcamp-2025/data-analysis/blob/main/output/ER_Diagram.png) "ER Diagram")
